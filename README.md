@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DashCode47
 - 👀 I’m interested in learning full stack Mobile development
-- 🌱 I’m currently learning Reac Native
+- 🌱 I’m currently working with Reac Native
 - 💞️ I’m looking to collaborate on React native projects
 - 📫 How to reach me ?--davsh47@hotmail.com
 
