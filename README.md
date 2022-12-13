@@ -1,6 +1,6 @@
 <img align="center" height="250" width='100%' alt="Coding2"  src="https://wallpaperforu.com/wp-content/uploads/2021/04/Wallpaper-Nature-Art-Pixel-Art-Digital-Art-Pixelated-Pix13.jpg">
 
-<h1 align="center">Hi 👋, I'm David Lozada</h1>
+<h1 align="center">Hey! 👋, I'm David Lozada</h1>
 <h3 align="center">A passionate frontend developer from Quito</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dashcode47" alt="dashcode47" /></a> </p>
