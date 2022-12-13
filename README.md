@@ -1,4 +1,4 @@
-<img align="center" width="40" alt="Coding2"  src="https://wallpaperforu.com/wp-content/uploads/2021/04/Wallpaper-Nature-Art-Pixel-Art-Digital-Art-Pixelated-Pix13.jpg">
+<img align="center" height="100" alt="Coding2"  src="https://wallpaperforu.com/wp-content/uploads/2021/04/Wallpaper-Nature-Art-Pixel-Art-Digital-Art-Pixelated-Pix13.jpg">
 
 <h1 align="center">Hi 👋, I'm David Lozada</h1>
 <h3 align="center">A passionate frontend developer from Quito</h3>
