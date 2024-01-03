@@ -7,7 +7,8 @@
 
 - 🔭 I’m currently working with **React Native**
 
-- 👯 I’m a participant in **KrugerStar**
+- 👯 I participated in **KrugerStar**
+- 👯 I work at **Galileo** banking solutions.
 
 - 💬 Ask me about **react native,graphQL, AWS amplify, apollo client, react,HTML,CSS**
 
