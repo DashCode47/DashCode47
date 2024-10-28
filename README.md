@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **react native,graphQL, AWS amplify, apollo client, react,HTML,CSS**
 
-- 📫 How to reach me **davsh47@hotmail.com**
+- 📫 How to reach me **daviddev47@hotmail.com**
 
 - ⚡ Fun fact **I love cooking**
 
