@@ -5,14 +5,15 @@
 
 
 
-- 🔭 I’m currently working with **React Native**
+🚀 About Me
 
-- 👯 I participated in **KrugerStar**
-- 👯 I work at **Galileo** banking solutions.
+🔭 Currently working with React Native, building scalable and high-performance mobile apps.
 
-- 💬 Ask me about **react native,graphQL, AWS amplify, apollo client, react,HTML,CSS**
+👯 Previously contributed to KrugerStar, and now part of Opinno, developing innovative banking solutions.
 
-- 📫 How to reach me **daviddev47@hotmail.com**
+💬 Ask me about React Native, React, GraphQL, AWS Amplify, Apollo Client, HTML, and CSS — I love talking about front-end architecture and clean UI.
+
+📫 Reach me at daviddev47@hotmail.com
 
 - ⚡ Fun fact **I love cooking**
 
