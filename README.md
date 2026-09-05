@@ -1,4 +1,4 @@
-<img align="center" height="250" width='100%' alt="Coding2"  src="https://www.pexels.com/photo/coding-workspace-with-laptop-and-coffee-mug-34803997/">
+<img align="center" height="250" width='100%' alt="Coding2"  src="https://www.pexels.com/photo/mosaic-alien-on-wall-1670977/">
 
 <h1 align="center">Hey! 👋, I'm David Lozada</h1>
 <h3 align="center">A passionate frontend developer from Quito</h3>
